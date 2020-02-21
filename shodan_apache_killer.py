@@ -6,7 +6,7 @@ import threading
 
 
 ips = []
-api = "MtXjR35epdPIfOUTr2ii4Hxtqnke0SIt"
+api = "ENTER YOUR API KEY HERE"
 print(">> [*] API Authenticating")
 try:
 	auth = shodan.Shodan(api)
